@@ -7,7 +7,7 @@ import functions
 import os
 
 app = Flask(__name__)
-
+# testing db pipline
 # Required to use Flask sessions, Debug toolbar
 app.secret_key = "daksfhausdfskgbxpuseswlduc"
 

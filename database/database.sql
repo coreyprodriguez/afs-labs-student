@@ -1,4 +1,4 @@
---
+-- Testing db pipeline
 -- PostgreSQL database dump
 --
 
